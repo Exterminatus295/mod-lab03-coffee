@@ -14,8 +14,7 @@ int main() {
 	if (1 == first.GetState()) {
 		correct = true;
 		std::cout << correct;
-	}
-	else {
+	} else {
 		std::cout << correct;
 	}
 }
