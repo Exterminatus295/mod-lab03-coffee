@@ -12,9 +12,9 @@ int main() {
     first.Finish(_position);
     bool correct = false;
     if (1 == first.GetState()) {
-	    correct = true;
-	    std::cout << correct;
+        correct = true;
+        std::cout << correct;
     } else {
-	    std::cout << correct;
+        std::cout << correct;
     }
 }
